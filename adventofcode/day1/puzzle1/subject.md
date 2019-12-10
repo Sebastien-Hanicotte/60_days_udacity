@@ -20,3 +20,7 @@ The Fuel Counter-Upper needs to know the total fuel requirement. To find it, ind
 _What is the sum of the fuel requirements for all of the modules on your spacecraft?_
 
 To begin, [get your puzzle input](input.txt).?
+
+[My bash script](script.sh)
+
+[My solution](answer.md)
