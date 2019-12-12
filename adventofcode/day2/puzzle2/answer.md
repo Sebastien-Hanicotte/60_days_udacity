@@ -1,0 +1,1 @@
+The result of 100 * noun + verb is : **8051**
